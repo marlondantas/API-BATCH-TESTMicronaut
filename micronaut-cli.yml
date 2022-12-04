@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: br.com.luaazul
+testFramework: junit
+sourceLanguage: java
+buildTool: maven
+features: [app-name, assertj, data, data-jpa, hibernate-jpa, hibernate-validator, http-client, jackson-databind, java, java-application, jdbc-hikari, junit, logback, lombok, maven, mysql, netty-server, readme, shade, testcontainers, yaml]
